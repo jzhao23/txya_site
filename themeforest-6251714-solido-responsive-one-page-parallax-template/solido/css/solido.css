@@ -383,7 +383,7 @@ html, body {
 }
 .main-title.title-fullWidth{top: 174px; margin-top: 0;}
 .main-title a{text-decoration: none;}
-.main-title .spacer{width: 60px; margin: 30px auto 40px;}
+.main-title .spacer{width: 60px; margin: 30px auto 40px; color:white;}
 .title-container{
 	width: 75%;
 	margin: 0 auto;
@@ -2116,7 +2116,9 @@ html, body {
 /* See more at: http://avexdesigns.com/responsive-youtube-embed/#sthash.xRJhxXBs.dpuf*/
 
 
-.pattern{ background-image:url("../img/slider/pattern.jpg");}
+.pattern{ background-image:url("../img/main.jpg");
+background-size: cover;
+}
 .darker .sticky-wrapper{ background-color:#000;}
 
 .overlay{
