@@ -4,7 +4,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700);
 
 ::selection {
-	background-color: #4cddf3;
+	background-color: #E62B1E;
 	color: #fff;
 }
 html, body {
@@ -140,7 +140,7 @@ html, body {
 	text-align: center;
 	color: #666;*/
 }
-.color-picker .picker-blue{background: #4cddf3;}
+.color-picker .picker-blue{background: white;}
 .color-picker .picker-black{background: #222;}
 .color-picker .picker-green{background: #77be32;}
 .color-picker .picker-yellow{background: #f1d301;}
@@ -289,14 +289,14 @@ html, body {
 	-o-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;*/
 }.menu a:hover{
-	color: #4cddf3;
+	color: white;
 	
 /*	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;*/
 }
-#nav .current a {color: #4cddf3 !important;}
+#nav .current a {color: white !important;}
 .logo{
 	float: left;
 	color: #000;
@@ -313,7 +313,7 @@ html, body {
 	float: left;
 	width: 20px;
 	height: 20px;
-	background: #4cddf3;
+	background: white;
 	background: rgba(76,221,243,0.5);
 	margin: 26px 7px 0 0;
 }
@@ -321,7 +321,7 @@ html, body {
 	position: absolute;
 	width: 10px;
 	height: 10px;
-	background: #4cddf3;
+	background: white;
 	bottom: 0;
 	left: 0;
 }
@@ -333,7 +333,7 @@ html, body {
 	margin: auto;
 	font-weight: 400;
 }
-.second-title span{color: #4cddf3; font-weight: 600;}
+.second-title span{color: white; font-weight: 600;}
 .buy-logo{
 	width: 135px;
 	margin: 40px auto 0;
@@ -348,7 +348,7 @@ html, body {
 	font-family: 'Open Sans', sans-serif;
 	padding: 11px 25px 11px;
 	cursor: pointer;
-	border: 2px solid #4cddf3;
+	border: 2px solid white;
 	border-radius: 2px;
 	letter-spacing: 2px;
 	pointer-events: auto;
@@ -642,7 +642,7 @@ html, body {
 .f-single:hover .f-info{
 	cursor: pointer;
 	opacity: 1;
-	background: #4cddf3;
+	background: white;
 	color: #fff;
 	
 	-webkit-transition: all 0.2s ease-out;
@@ -687,7 +687,7 @@ html, body {
 	width: 30px;
 	height: 57px;
 	margin-left: 110px;
-}.next-featured:hover{background-color: #4cddf3;}
+}.next-featured:hover{background-color: white;}
 .nav-featured .btn-featured{
 	color: #fff;
 	margin-top: 4px;
@@ -809,7 +809,7 @@ html, body {
 .parallax.p-two{height: 625px;}
 .parallax.p-one{height: 680px;}
 .p-one{background: url("../img/parallax/parallax-01.jpg") repeat}
-.p-two{background: url("../img/parallax/parallax-02.png") repeat; background-color: #4cddf3;}
+.p-two{background: url("../img/parallax/parallax-02.png") repeat; background-color: white;}
 .p-three{background: url("../img/parallax/parallax-01.jpg") repeat}
 .p-title-one{
 	font-weight: 400;
@@ -841,7 +841,7 @@ html, body {
 .spacer{
 	width: 100px;
 	height: 2px;
-	background: #4cddf3;
+	background: white;
 	margin: auto;
 }
 .p-image-01{position: absolute; bottom: -3px; left: 50%; margin-left: -595px;}
